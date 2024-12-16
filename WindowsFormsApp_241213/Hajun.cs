@@ -10,5 +10,6 @@ namespace WindowsFormsApp_241213
     {
         // "오하준"
         string myname = "Oh Hajun";
+        int myage = 25;
     }
 }
